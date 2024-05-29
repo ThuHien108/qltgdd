@@ -1,0 +1,7 @@
+D:\CSharp\DUANCANHAN\QLTGDD\DemoMVCForm\QuanLyKho\obj\Debug\QuanLyKho.csproj.AssemblyReference.cache
+D:\CSharp\DUANCANHAN\QLTGDD\DemoMVCForm\QuanLyKho\obj\Debug\QuanLyKho.Form1.resources
+D:\CSharp\DUANCANHAN\QLTGDD\DemoMVCForm\QuanLyKho\obj\Debug\QuanLyKho.Form2.resources
+D:\CSharp\DUANCANHAN\QLTGDD\DemoMVCForm\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
+D:\CSharp\DUANCANHAN\QLTGDD\DemoMVCForm\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.cache
+D:\CSharp\DUANCANHAN\QLTGDD\DemoMVCForm\QuanLyKho\obj\Debug\QuanLyKho.csproj.CoreCompileInputs.cache
+D:\CSharp\DUANCANHAN\QLTGDD\DemoMVCForm\QuanLyKho\obj\Debug\QuanLyKho.frmTest.resources
